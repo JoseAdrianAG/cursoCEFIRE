@@ -1,5 +1,11 @@
 adrian aglio
 pijama
 bufanda
+<<<<<<< HEAD
 pantalones
 camisetas
+=======
+ipad
+camara reflex
+bañador
+>>>>>>> opcionales
